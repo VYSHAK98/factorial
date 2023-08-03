@@ -1,0 +1,18 @@
+#bd1{
+    background-color: rgb(235, 234, 234);
+}
+h1{
+    color: rgb(10, 9, 9);
+}
+#a1{
+    height: 20px;
+    width: 250px;
+
+}
+
+button{
+    background-color: rgb(181, 91, 22);
+    color: aliceblue;
+    height: 25px;
+    width: 100px;
+}
